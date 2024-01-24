@@ -4,8 +4,8 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <Title>Shania's Portfolio</Title>
+      <h1>Shania Green-Timberlake</h1>
       <Counter />
       <p>
         Visit{" "}
